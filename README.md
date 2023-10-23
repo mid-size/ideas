@@ -1,12 +1,18 @@
-This is an idea-collection for the OSS ecosystem around electronics, at the moment concentrated on [BOM](https://en.wikipedia.org/wiki/Bill_of_materials)/[PLM](https://en.wikipedia.org/wiki/Product_lifecycle) software.
-
 # Mid-Size Idea Collection
 
+This is an idea-collection for the OSS ecosystem around electronics, at the moment concentrated on [BOM](https://en.wikipedia.org/wiki/Bill_of_materials)/[PLM](https://en.wikipedia.org/wiki/Product_lifecycle) software.
+
 ## Highlighted ideas
+
+> [!NOTE]  
+> Suggest something by creating an issue
 
 ## Participating projects
 
 [InvenTree](https://github.com/inventree/inventree): contributor [@matmair](https://github.com/matmair)https://github.com/matmair
+
+> [!NOTE]  
+> Room for more - create a PR
 
 ## License
 
