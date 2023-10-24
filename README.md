@@ -11,6 +11,8 @@ This is an idea-collection for the OSS ecosystem around electronics, at the mome
 
 [InvenTree](https://github.com/inventree/inventree): contributor [@matmair](https://github.com/matmair)https://github.com/matmair
 
+[Part-DB](https://github.com/Part-DB/Part-DB-server): contributor [@jbtronics](https://github.com/jbtronics)
+
 > [!NOTE]  
 > Room for more - create a PR
 
